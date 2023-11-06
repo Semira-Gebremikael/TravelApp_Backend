@@ -24,7 +24,7 @@ using System.ComponentModel.Design;
 //DbRepos namespace is a layer to abstract the detailed plumming of
 //retrieveing and modifying and data in the database using EFC.
 
-//DbRepos implements database CRUD functionality using the DbContext
+//DbRepos implements database CRUD functionality using the DbContexts
 namespace DbRepos;
 
 public class csPersonsDbRepos
