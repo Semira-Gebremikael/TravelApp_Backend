@@ -1,0 +1,63 @@
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/DbRepos.deps.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/DbContext.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/DbModels.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/DbContext.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/DbModels.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/obj/Debug/net7.0/DbRepos.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/obj/Debug/net7.0/DbRepos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/obj/Debug/net7.0/DbRepos.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/obj/Debug/net7.0/DbRepos.AssemblyInfo.cs
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/obj/Debug/net7.0/DbRepos.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/obj/Debug/net7.0/DbRepos.csproj.CopyComplete
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/obj/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/obj/Debug/net7.0/refint/DbRepos.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/obj/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/DbRepos/obj/Debug/net7.0/ref/DbRepos.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/DbRepos.deps.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/DbContext.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/DbModels.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/DbContext.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/DbModels.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/obj/Debug/net7.0/DbRepos.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/obj/Debug/net7.0/DbRepos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/obj/Debug/net7.0/DbRepos.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/obj/Debug/net7.0/DbRepos.AssemblyInfo.cs
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/obj/Debug/net7.0/DbRepos.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/obj/Debug/net7.0/DbRepos.csproj.CopyComplete
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/obj/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/obj/Debug/net7.0/refint/DbRepos.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/obj/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/DbRepos/obj/Debug/net7.0/ref/DbRepos.dll
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/DbRepos.deps.json
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/DbContext.dll
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/DbModels.dll
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/DbContext.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/DbModels.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/obj/Debug/net7.0/DbRepos.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/obj/Debug/net7.0/DbRepos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/obj/Debug/net7.0/DbRepos.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/obj/Debug/net7.0/DbRepos.AssemblyInfo.cs
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/obj/Debug/net7.0/DbRepos.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/obj/Debug/net7.0/DbRepos.csproj.CopyComplete
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/obj/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/obj/Debug/net7.0/refint/DbRepos.dll
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/obj/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/DbRepos/obj/Debug/net7.0/ref/DbRepos.dll

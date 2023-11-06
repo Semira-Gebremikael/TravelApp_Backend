@@ -1,0 +1,375 @@
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/appsettings.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/AppWebApi
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/AppWebApi.deps.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/AppWebApi.runtimeconfig.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/AppWebApi.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/AppWebApi.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Azure.Security.KeyVault.Secrets.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/EFCore.CheckConstraints.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/MySqlConnector.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Npgsql.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/DbContext.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/DbModels.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Services.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/Services.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/DbContext.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/DbModels.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/bin/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.AssemblyInfo.cs
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.AppWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.AppWebApi.props
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AppWebApi.props
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AppWebApi.props
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/scopedcss/bundle/AppWebApi.styles.css
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.csproj.CopyComplete
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/refint/AppWebApi.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/AppWebApi.genruntimeconfig.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/AppWebApi/obj/Debug/net7.0/ref/AppWebApi.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/appsettings.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/AppWebApi
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/AppWebApi.deps.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/AppWebApi.runtimeconfig.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/AppWebApi.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/AppWebApi.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Azure.Security.KeyVault.Secrets.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/EFCore.CheckConstraints.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/MySqlConnector.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Npgsql.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/DbContext.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/DbModels.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Services.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/Services.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/DbContext.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/DbModels.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/bin/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.AssemblyInfo.cs
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.AppWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.AppWebApi.props
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AppWebApi.props
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AppWebApi.props
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/scopedcss/bundle/AppWebApi.styles.css
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.csproj.CopyComplete
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/refint/AppWebApi.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/AppWebApi.genruntimeconfig.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/AppWebApi/obj/Debug/net7.0/ref/AppWebApi.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/appsettings.json
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/AppWebApi
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/AppWebApi.deps.json
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/AppWebApi.runtimeconfig.json
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/AppWebApi.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/AppWebApi.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Azure.Security.KeyVault.Secrets.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/EFCore.CheckConstraints.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/MySqlConnector.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Npgsql.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/DbContext.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/DbModels.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Services.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/Services.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/DbContext.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/DbModels.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/bin/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.AssemblyInfo.cs
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.AppWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.AppWebApi.props
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AppWebApi.props
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AppWebApi.props
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/scopedcss/bundle/AppWebApi.styles.css
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.csproj.CopyComplete
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/refint/AppWebApi.dll
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/AppWebApi.genruntimeconfig.cache
+/Users/semiragebremikael/Projeckt_Submission 3/AppWebApi/obj/Debug/net7.0/ref/AppWebApi.dll

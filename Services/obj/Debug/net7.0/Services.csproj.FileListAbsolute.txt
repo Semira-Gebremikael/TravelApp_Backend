@@ -1,0 +1,73 @@
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/Services.deps.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/Services.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/Services.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/DbContext.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/DbModels.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/DbContext.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/DbModels.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/obj/Debug/net7.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/obj/Debug/net7.0/Services.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/obj/Debug/net7.0/Services.csproj.CopyComplete
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/obj/Debug/net7.0/Services.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/obj/Debug/net7.0/refint/Services.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/obj/Debug/net7.0/Services.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Services/obj/Debug/net7.0/ref/Services.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/Services.deps.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/Services.runtimeconfig.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/Services.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/Services.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/DbContext.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/DbModels.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/DbContext.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/DbModels.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/Services.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/Services.csproj.CopyComplete
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/Services.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/refint/Services.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/Services.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/Services.genruntimeconfig.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/Services/obj/Debug/net7.0/ref/Services.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/Services.deps.json
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/Services.runtimeconfig.json
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/Services.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/Services.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/DbContext.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/DbModels.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/DbRepos.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/DbContext.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/DbRepos.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/DbModels.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Services/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/Services.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/Services.csproj.CopyComplete
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/Services.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/refint/Services.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/Services.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/Services.genruntimeconfig.cache
+/Users/semiragebremikael/Projeckt_Submission 3/Services/obj/Debug/net7.0/ref/Services.dll

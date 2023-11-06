@@ -1,0 +1,36 @@
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/bin/Debug/net7.0/Configuration.deps.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/obj/Debug/net7.0/Configuration.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/obj/Debug/net7.0/Configuration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/obj/Debug/net7.0/Configuration.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/obj/Debug/net7.0/Configuration.AssemblyInfo.cs
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/obj/Debug/net7.0/Configuration.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/obj/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/obj/Debug/net7.0/refint/Configuration.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/obj/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Configuration/obj/Debug/net7.0/ref/Configuration.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/bin/Debug/net7.0/Configuration.deps.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/obj/Debug/net7.0/Configuration.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/obj/Debug/net7.0/Configuration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/obj/Debug/net7.0/Configuration.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/obj/Debug/net7.0/Configuration.AssemblyInfo.cs
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/obj/Debug/net7.0/Configuration.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/obj/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/obj/Debug/net7.0/refint/Configuration.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/obj/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Configuration/obj/Debug/net7.0/ref/Configuration.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/bin/Debug/net7.0/Configuration.deps.json
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/obj/Debug/net7.0/Configuration.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/obj/Debug/net7.0/Configuration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/obj/Debug/net7.0/Configuration.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/obj/Debug/net7.0/Configuration.AssemblyInfo.cs
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/obj/Debug/net7.0/Configuration.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/obj/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/obj/Debug/net7.0/refint/Configuration.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/obj/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Configuration/obj/Debug/net7.0/ref/Configuration.dll

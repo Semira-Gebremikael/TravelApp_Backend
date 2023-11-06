@@ -1,0 +1,45 @@
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/bin/Debug/net7.0/Models.deps.json
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/obj/Debug/net7.0/Models.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/obj/Debug/net7.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/obj/Debug/net7.0/Models.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/obj/Debug/net7.0/Models.AssemblyInfo.cs
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/obj/Debug/net7.0/Models.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/obj/Debug/net7.0/Models.csproj.CopyComplete
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/obj/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/obj/Debug/net7.0/refint/Models.dll
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/obj/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projects/L01_GoodFriends/Models/obj/Debug/net7.0/ref/Models.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/bin/Debug/net7.0/Models.deps.json
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/obj/Debug/net7.0/Models.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/obj/Debug/net7.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/obj/Debug/net7.0/Models.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/obj/Debug/net7.0/Models.AssemblyInfo.cs
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/obj/Debug/net7.0/Models.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/obj/Debug/net7.0/Models.csproj.CopyComplete
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/obj/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/obj/Debug/net7.0/refint/Models.dll
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/obj/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projects/Projeckt_Submission/Models/obj/Debug/net7.0/ref/Models.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Models/bin/Debug/net7.0/Models.deps.json
+/Users/semiragebremikael/Projeckt_Submission 3/Models/bin/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Models/bin/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Models/bin/Debug/net7.0/Configuration.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Models/bin/Debug/net7.0/Configuration.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Models/obj/Debug/net7.0/Models.csproj.AssemblyReference.cache
+/Users/semiragebremikael/Projeckt_Submission 3/Models/obj/Debug/net7.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semiragebremikael/Projeckt_Submission 3/Models/obj/Debug/net7.0/Models.AssemblyInfoInputs.cache
+/Users/semiragebremikael/Projeckt_Submission 3/Models/obj/Debug/net7.0/Models.AssemblyInfo.cs
+/Users/semiragebremikael/Projeckt_Submission 3/Models/obj/Debug/net7.0/Models.csproj.CoreCompileInputs.cache
+/Users/semiragebremikael/Projeckt_Submission 3/Models/obj/Debug/net7.0/Models.csproj.CopyComplete
+/Users/semiragebremikael/Projeckt_Submission 3/Models/obj/Debug/net7.0/Models.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Models/obj/Debug/net7.0/refint/Models.dll
+/Users/semiragebremikael/Projeckt_Submission 3/Models/obj/Debug/net7.0/Models.pdb
+/Users/semiragebremikael/Projeckt_Submission 3/Models/obj/Debug/net7.0/ref/Models.dll

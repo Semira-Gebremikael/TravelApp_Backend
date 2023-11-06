@@ -1,0 +1,7 @@
+CREATE VIEW [dbo].[vw_attractionsWithNullComments] AS
+SELECT at.*, a.City, a.Country, a.StreetAddress, c.CommentText
+FROM Attractions at
+JOIN Addresses a ON at.AddressId = a.AddressId
+LEFT JOIN Comments c ON at.AttractionId = c.AttractionId
+WHERE c.AttractionId IS NULL;
+GO
